@@ -1,4 +1,4 @@
-# Analyzing-DNS-and-ICMP-Traffic
+# Analyzing DNS and ICMP Traffic
 <h2> Description <h2>
 Project consist of analyzing data produced by TCPdump in order to to find root causes of why mock website is not responding or working properly and cannot be accessed by others over website URL.
 
