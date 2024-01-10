@@ -13,6 +13,7 @@ Project consist of analyzing data produced by TCPdump in order to to find root c
 <img src="https://imgur.com/iqJKhPY.png">
 <b/>
 <b>Analyze Data produced by TCPdump to retrieve information listed below</b>
+</b>
   <img src="https://imgur.com/fGTjMtD.png">
 <b/>
 <a href="https://docs.google.com/document/d/1edOkS_xAWLghcEaa12MXryiynF-agSThGdBh0G9CeL8/edit">Conduct a cybersecurity incident report using info below <b>
